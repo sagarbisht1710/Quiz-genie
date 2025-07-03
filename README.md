@@ -1,5 +1,3 @@
-Here is a **more professional and polished** version of your `README.md` file for **Quiz-Genie**, including clearly formatted commands and better structure:
-
 ---
 
 # 🧠 Quiz-Genie
@@ -102,4 +100,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Let me know if you’d like to add screenshots, deployment instructions (like PythonAnywhere or Heroku), or database schema info as well.
