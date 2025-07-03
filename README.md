@@ -1,7 +1,7 @@
 
 # 🧠 Quiz-Genie
 
-**Quiz-Genie** is a lightweight and responsive web-based quiz application built using **Flask**. It allows users to take multiple-choice quizzes, receive instant feedback, and track their scores in real time. This project is ideal for beginners exploring full-stack development using Python and Flask.
+Quiz Genie is an interactive web-based quiz platform designed to enhance learning and knowledge testing through dynamic quizzes. Built using Flask, it allows users to take multiple-choice quizzes, track their scores, and improve their understanding in various subjects. Admins can manage questions easily through a clean interface.
 
 ---
 
