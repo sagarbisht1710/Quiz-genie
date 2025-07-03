@@ -11,6 +11,7 @@ Quiz-Genie is a web-based quiz application built using Flask that allows users t
 * Lightweight Flask-based backend
 
 🛠️ Tech Stack
+
 Quiz-Genie is built with the following technologies:
 
 HTML – Structure of the web pages
