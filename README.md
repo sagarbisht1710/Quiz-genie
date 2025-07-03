@@ -95,6 +95,5 @@ http://127.0.0.1:5000
 Sagar Bisht
 GitHub: [@sagarbisht1710](https://github.com/sagarbisht1710)
 
-## 📝 License
-
-This project is licensed under the [MIT License](LICENSE).
+📝 License
+This project is licensed under the MIT License.
