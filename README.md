@@ -30,26 +30,23 @@ quiz-genie/
 └── README.md             # Project documentation
 ```
 
+🧪 Getting Started
+Follow the steps below to set up and run the project locally:
 
-## 🧪 How to Run Locally
+1️⃣ Clone the Repository
 
-1. Clone the Repository
-   git clone https://github.com/sagarbisht1710/Quiz-genie
-   cd Quiz-genie
+git clone https://github.com/sagarbisht1710/Quiz-genie.git
 
-2. Create Virtual Environment
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
+cd Quiz-genie
 
-3. Install Dependencies
-   pip install -r requirements.txt
-   
-5. Run the App
-   python app.py
+2️⃣ Create a Virtual Environment
 
-6. Access the App
 
-   * Open your browser and go to `http://127.0.0.1:5000`
+3️⃣ Install Dependencies
+
+4️⃣ Run the Application
+
+5️⃣ Open in Browser
 
 ## 🙋‍♂️ Author
 
