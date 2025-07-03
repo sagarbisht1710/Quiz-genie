@@ -18,6 +18,8 @@ Quiz-Genie is a web-based quiz application built using Flask that allows users t
 * Templates: Jinja2 (Flask Templating)
 
 ## 📁 Project Structure
+
+```
 quiz-genie/
 │
 ├── app.py                # Main Flask application
@@ -26,6 +28,7 @@ quiz-genie/
 ├── templates/            # HTML templates
 ├── db/                   # Database files
 └── README.md             # Project documentation
+```
 
 
 ## 🧪 How to Run Locally
