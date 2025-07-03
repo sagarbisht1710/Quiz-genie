@@ -17,6 +17,10 @@ Quiz-Genie is a web-based quiz application built using Flask that allows users t
 * Database: SQLite
 * Templates: Jinja2 (Flask Templating)
 
+Got it! Here's the **Getting Started** section along with the **Project Structure** formatted consistently — with each code block styled for GitHub (includes automatic copy buttons):
+
+---
+
 ## 📁 Project Structure
 
 ```
@@ -30,25 +34,63 @@ quiz-genie/
 └── README.md             # Project documentation
 ```
 
-🧪 Getting Started
-Follow the steps below to set up and run the project locally:
+---
 
-1️⃣ Clone the Repository
+## 🛠️ Getting Started
 
+### 1️⃣ Clone the Repository
+
+```bash
 git clone https://github.com/sagarbisht1710/Quiz-genie.git
+```
 
+```bash
 cd Quiz-genie
+```
 
-2️⃣ Create a Virtual Environment
+### 2️⃣ Create a Virtual Environment
 
+#### On Linux/macOS:
 
-3️⃣ Install Dependencies
+```bash
+python3 -m venv venv
+```
 
-4️⃣ Run the Application
+```bash
+source venv/bin/activate
+```
 
-5️⃣ Open in Browser
+#### On Windows:
 
-## 🙋‍♂️ Author
+```bash
+python -m venv venv
+```
+
+```bash
+venv\Scripts\activate
+```
+
+### 3️⃣ Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 4️⃣ Run the Application
+
+```bash
+python app.py
+```
+
+### 5️⃣ Open in Browser
+
+```text
+http://127.0.0.1:5000
+```
+
+---
+
+🧑‍💻 Author
 
 Sagar Bisht
 GitHub: [@sagarbisht1710](https://github.com/sagarbisht1710)
