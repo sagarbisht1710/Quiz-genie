@@ -5,7 +5,7 @@ from datetime import datetime
 
 
 
-gemini_api_key = 'AIzaSyDECwTBk3U5HuU5cdAV0lMA5ZtxCobE7DI'
+gemini_api_key = 'AIzaSyDwZSxPpgF-jlip3AjL3gGGLJj2CtbxzRE'
 genai.configure(api_key = gemini_api_key)
 model = genai.GenerativeModel('gemini-2.0-flash-lite')
 
